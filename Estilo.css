@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(248, 240, 240);
+}
+h1{
+    text-align: center;
+    color: rgb(1, 23, 56);
+    font-size: 60px;
+    font-style: oblique;
+    font-family: serif;
+}
+p{
+    font-family: 'Courier New', Courier, monospace;
+    line-height: 7mm;
+    text-indent: 1cm;
+}
+h2{
+    text-indent: 1cm;
+}
+image{
+    margin: 25%;
+}
